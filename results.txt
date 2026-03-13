@@ -1,0 +1,7 @@
+Dataset Type	  Algorithm 	Execution Time (s)	Memory Usage (KB)
+Sorted 	        Merge Sort	0.010395	           57.79
+Sorted	        Quick Sort	0.787393	         17749.23
+Reverse Sorted	Merge Sort	0.008289	          54.74
+Reverse Sorted 	Quick Sort	0.775033	         17788.55
+Random	        Merge Sort	0.012383	          48.89
+Random	        Quick Sort	0.010262	          118.02
